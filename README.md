@@ -7,7 +7,7 @@ Tia is a creative strategist who builds bold visions and brand experiences throu
 
 ## Contact
 - Website: thirstlab.co
-- Email: [Your email]
+- Email: tia@thirstlabmedia.com
 
 ## Development
 This site is built with:
